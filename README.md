@@ -36,5 +36,5 @@ NGINX запущен на 101 машине
 ![Скрипт](https://github.com/dvolkov15/Disaster-Recovery.-FHRP-Keepalived/blob/main/keepalived_check.sh)
 
 Конфиг
-
-![конфиг](https://github.com/dvolkov15/Disaster-Recovery.-FHRP-Keepalived/blob/main/keepalived.conf)
+![конфиг_backup](https://github.com/dvolkov15/Disaster-Recovery.-FHRP-Keepalived/blob/main/keepalived_backup.conf)
+![конфиг_master](https://github.com/dvolkov15/Disaster-Recovery.-FHRP-Keepalived/blob/main/keepalived.conf)
