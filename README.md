@@ -26,7 +26,15 @@
 ![Файл PKT](https://github.com/dvolkov15/Disaster-Recovery.-FHRP-Keepalived/blob/main/hsrp_advanced.pkt)
 ### Задание 2 
 
+NGINX остановлен на 101 машине
+![NGINX_STOP_101](https://github.com/dvolkov15/Disaster-Recovery.-FHRP-Keepalived/blob/main/NGINX_stop_101.PNG)
 
+NGINX запущен на 101 машине
+![NGINX_START_101](https://github.com/dvolkov15/Disaster-Recovery.-FHRP-Keepalived/blob/main/NGINX_start_101.PNG)
 
+Скрипт
+![Скрипт](https://github.com/dvolkov15/Disaster-Recovery.-FHRP-Keepalived/blob/main/keepalived_check.sh)
 
+Конфиг
 
+![конфиг](https://github.com/dvolkov15/Disaster-Recovery.-FHRP-Keepalived/blob/main/keepalived.conf)
